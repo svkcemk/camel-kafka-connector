@@ -1,4 +1,4 @@
-= Camel Kafka Connector
+= Camel Kafka Connectors
 
 image:https://img.shields.io/badge/zulip-join_chat-brightgreen.svg["Chat on Zulip", link="https://camel.zulipchat.com"]
 image:https://github.com/apache/camel-kafka-connector/workflows/master%20build/badge.svg[Master Build, link="https://github.com/apache/camel-kafka-connector/actions?query=workflow%3A%22master+build%22"]
